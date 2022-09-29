@@ -40,3 +40,7 @@ Leodanis Pozo Ramos - Email: leodanis@realpython.com
 ## License
 
 Distributed under the MIT license. See `LICENSE` in the root directory of this `materials` repo for more information.
+
+
+####run
+python3 -m rpchecker -f sample-urls.txt
